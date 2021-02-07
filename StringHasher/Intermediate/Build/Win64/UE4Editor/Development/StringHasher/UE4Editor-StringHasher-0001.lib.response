@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StringHasher-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Lord Hypersonic\Documents\Unreal Projects\PluginMaker\Intermediate\Build\Win64\PluginMakerEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Lord Hypersonic\Documents\Unreal Projects\PluginMaker\Plugins\StringHasher\Intermediate\Build\Win64\UE4Editor\Development\StringHasher\Module.StringHasher.cpp.obj"
+"C:\Users\Lord Hypersonic\Documents\Unreal Projects\PluginMaker\Plugins\StringHasher\Intermediate\Build\Win64\UE4Editor\Development\StringHasher\Module.StringHasher.gen.cpp.obj"
+"C:\Users\Lord Hypersonic\Documents\Unreal Projects\PluginMaker\Plugins\StringHasher\Intermediate\Build\Win64\UE4Editor\Development\StringHasher\Default.rc2.res"
+/OUT:"C:\Users\Lord Hypersonic\Documents\Unreal Projects\PluginMaker\Plugins\StringHasher\Intermediate\Build\Win64\UE4Editor\Development\StringHasher\UE4Editor-StringHasher-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_StringHasher

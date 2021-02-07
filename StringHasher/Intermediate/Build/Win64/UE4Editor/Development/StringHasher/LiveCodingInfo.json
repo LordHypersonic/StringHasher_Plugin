@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StringHasher.cpp.obj": [
+			"StringHasher.cpp.obj",
+			"StringHasherBPLibrary.cpp.obj"
+		],
+		"Module.StringHasher.gen.cpp.obj": [
+			"StringHasher.init.gen.cpp.obj",
+			"StringHasherBPLibrary.gen.cpp.obj"
+		]
+	}
+}
